@@ -14,18 +14,34 @@ The dashboard helps understand sales trends, customer demographics, order status
 - Data Visualization
 
 ## Dataset
-The dataset contains order-level sales data including:
 
-- Order ID
-- Order Date
-- Customer Gender
-- Age Group
-- Product Category
-- Sales Amount
-- Order Status
-- Sales Channel
-- State
+The dataset contains **order-level e-commerce sales data for Vrinda Store for the year 2022**. Each record represents a single customer order and includes details related to customer demographics, product information, order status, and shipping details.
 
+### Dataset Size
+- Approximately **31,000+ rows**
+- **19 columns**
+
+### Dataset Columns
+
+- **Order ID** – Unique identifier for each order  
+- **Cust ID** – Unique identifier assigned to each customer  
+- **Gender** – Customer gender (Men / Women)  
+- **Age** – Age of the customer  
+- **Age Group** – Age category of the customer (Teenager, Adult, Senior)  
+- **Date** – Date on which the order was placed  
+- **Month** – Month of the order used for monthly sales analysis  
+- **Status** – Order status (Delivered, Cancelled, Returned, Refunded)  
+- **Channel** – Platform through which the order was placed (Amazon, Myntra, Flipkart, Ajio, etc.)  
+- **SKU (Stock Keeping Unit)** – Unique product identifier  
+- **Category** – Product category (Kurta, Set, Top, Western Dress, etc.)  
+- **Size** – Product size (S, M, L, XL, XXL, etc.)  
+- **Qty** – Quantity of products ordered  
+- **Amount** – Total order value in INR (₹)  
+- **Ship City** – City where the order was delivered  
+- **Ship State** – State where the order was delivered  
+- **Ship Postal Code** – Postal code of the delivery location  
+- **Ship Country** – Country of delivery  
+- **B2B** – Indicates whether the order is Business-to-Business (TRUE/FALSE)
 The data was cleaned and transformed before building the dashboard.
 
 ## Data Cleaning Process
