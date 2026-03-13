@@ -42,6 +42,7 @@ The dataset contains **order-level e-commerce sales data for Vrinda Store for th
 - **Ship Postal Code** – Postal code of the delivery location  
 - **Ship Country** – Country of delivery  
 - **B2B** – Indicates whether the order is Business-to-Business (TRUE/FALSE)
+
 The data was cleaned and transformed before building the dashboard.
 
 ## Data Cleaning Process
@@ -154,5 +155,7 @@ Vrinda-Store-Sales-Analysis
 This project demonstrates how Excel can be used for end-to-end data analysis, from data cleaning to visualization and business insights. The dashboard enables quick decision-making by providing a clear overview of sales performance.
 
 ## 👤 Author
-- Pratik Pawar
-- B.Tech Computer Engineering Student
+
+**Pratik Pawar**  
+B.Tech – Computer Engineering  
+Aspiring Data Analyst
