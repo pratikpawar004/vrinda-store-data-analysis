@@ -122,6 +122,11 @@ Users can filter the dashboard by:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/31e773a8-d491-457e-921f-7f28bd248f76" />
 
 ## Project Structure
+Vrinda-Store-Sales-Analysis
+│
+├── Vrinda Store Data Analysis.xlsx
+├── dashboard.png
+└── README.md
