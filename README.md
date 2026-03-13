@@ -151,6 +151,15 @@ Vrinda-Store-Sales-Analysis
 └── README.md  
 
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Pivot Tables
+- Data Visualization
+- Dashboard Design
+- Business Insight Generation
+
 ## Conclusion
 This project demonstrates how Excel can be used for end-to-end data analysis, from data cleaning to visualization and business insights. The dashboard enables quick decision-making by providing a clear overview of sales performance.
 
