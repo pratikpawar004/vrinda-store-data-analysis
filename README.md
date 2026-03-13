@@ -163,7 +163,7 @@ Vrinda-Store-Sales-Analysis
 ## Conclusion
 This project demonstrates how Excel can be used for end-to-end data analysis, from data cleaning to visualization and business insights. The dashboard enables quick decision-making by providing a clear overview of sales performance.
 
-## 👤 Author
+## Author
 
 **Pratik Pawar**  
 B.Tech – Computer Engineering  
