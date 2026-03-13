@@ -124,7 +124,7 @@ Users can filter the dashboard by:
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/31e773a8-d491-457e-921f-7f28bd248f76" />
 
----
+
 
 ## Project Structure  
 Vrinda-Store-Sales-Analysis  
@@ -133,11 +133,10 @@ Vrinda-Store-Sales-Analysis
 ├── dashboard.png  
 └── README.md  
 
----
+
 ## Conclusion
 This project demonstrates how Excel can be used for end-to-end data analysis, from data cleaning to visualization and business insights. The dashboard enables quick decision-making by providing a clear overview of sales performance.
 
----
 ## 👤 Author
 - Pratik Pawar
 - B.Tech Computer Engineering Student
